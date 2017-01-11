@@ -1,2 +1,5 @@
 # Grability-App-Test
-APK Link : https://raw.githubusercontent.com/edgarscr92/Grability-App-Test/master/App.apk
+
+Aplicación creada con Unity3D lenguaje C#
+
+APK Link : https://github.com/edgarscr92/Grability-App-Test/blob/master/App.apk
