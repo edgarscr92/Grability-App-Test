@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grability-App-Test.CSharp.Plugins", "Grability-App-Test.CSharp.Plugins.csproj", "{5A86CC9B-7BBD-0399-2F71-90D2EEF15E35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grability-App-Test.CSharp", "Grability-App-Test.CSharp.csproj", "{FDD603D8-2B93-6C6F-E57C-A4CFE96A0B1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grability-App-Test.CSharp.Editor.Plugins", "Grability-App-Test.CSharp.Editor.Plugins.csproj", "{F4E9B2C7-62DC-4F5E-10AB-B21BFBDB4B70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A86CC9B-7BBD-0399-2F71-90D2EEF15E35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A86CC9B-7BBD-0399-2F71-90D2EEF15E35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A86CC9B-7BBD-0399-2F71-90D2EEF15E35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A86CC9B-7BBD-0399-2F71-90D2EEF15E35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDD603D8-2B93-6C6F-E57C-A4CFE96A0B1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD603D8-2B93-6C6F-E57C-A4CFE96A0B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD603D8-2B93-6C6F-E57C-A4CFE96A0B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD603D8-2B93-6C6F-E57C-A4CFE96A0B1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4E9B2C7-62DC-4F5E-10AB-B21BFBDB4B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E9B2C7-62DC-4F5E-10AB-B21BFBDB4B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E9B2C7-62DC-4F5E-10AB-B21BFBDB4B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E9B2C7-62DC-4F5E-10AB-B21BFBDB4B70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
